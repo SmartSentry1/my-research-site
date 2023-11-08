@@ -14,7 +14,7 @@ const teamMembers = [
     name: 'Sunil Gunasinghage R.W',
     role: 'IT20212704 (Leader)',
     description: 'Computer Systems Engineering - SLIIT',
-    image: process.env.PUBLIC_URL + '/ravitha.jpg', // replace with actual path
+    image: process.env.PUBLIC_URL + './ravitha.jpg', // replace with actual path
     },
     {
     name: 'Ekanayake J.S.P.A',
