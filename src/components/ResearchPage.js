@@ -6,7 +6,7 @@ const ResearchPage = () => {
   return (
     <div className={styles.researchContainer}>
     <div className={styles.imagesColumn}>
-      <img src="/Smart Homes.png" alt="Smart Home" className={styles.researchImage} />
+      <img src="/Smart Homes.webp" alt="Smart Home" className={styles.researchImage} />
       {/* Add more images as needed */}
       <div className={styles.references}>
         <h3 className={styles.referencesTitle}>References</h3>
@@ -55,7 +55,7 @@ const ResearchPage = () => {
           <p>[13] I. R. Parameshwaran and R. Prakash, "Anomaly Detection of Sounds 
             for Home Security Systems," IEEE Sensors Journal, vol. 18, no. 22, 
             pp. 9233-9242, 2018.</p>
-            <img src="/sys diagram.jpg" alt="Smart Home" className={styles.researchImage} />
+            <img src="/sys diagram.webp" alt="Smart Home" className={styles.researchImage} />
             <section class="main-objective">
 </section>
             </div>
