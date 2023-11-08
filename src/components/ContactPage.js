@@ -26,7 +26,7 @@ const teamMembers = [
     name: "M.M.S Silva",
     role: "IT20383770",
     description: "Computer Systems Engineering - SLIIT",
-    image: process.env.PUBLIC_URL + "/Malith.webp", // replace with actual path
+    image: process.env.PUBLIC_URL + "/malith.webp", // replace with actual path
   },
   {
     name: "R.K. Kodikara",
