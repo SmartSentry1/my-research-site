@@ -3,9 +3,9 @@ import './AboutPage.css'; // Ensure this path is correct
 
 const AboutPage = () => {
     const images = [
-        "./A.png", // Image directly in public folder
-        "./B.png",
-        "./C.png",
+        "/A.png", // Image directly in public folder
+        "/B.png",
+        "/C.png",
         "/D.png",
         "/E.jpg",
         "/F.jpg",
